@@ -5,7 +5,7 @@ A tiny terminal palette viewer written in Rust
 
 to install, just type:
 ```
-rustc swtch.rs -o swtch
+rustc swtch.rs -o swtch -O3
 sudo mv ./swtch /usr/bin
 ```
 # Demo
